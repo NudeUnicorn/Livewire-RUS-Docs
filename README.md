@@ -4,4 +4,4 @@
 
 *в формате pdf*
 
-Взята с офф. [сайта](https://livewire.laravel.com/docs/quickstart)
+> Взята с офф. [сайта](https://livewire.laravel.com/docs/quickstart)
